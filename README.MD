@@ -15,7 +15,7 @@ Inspired by the peak desktop era of Winamp and late-90s hardware audio modules, 
 • Microscopic Footprint: The entire fully-featured engine is streamlined into just 71KB.
 • 100% Offline Capability: Take your music player anywhere. It functions perfectly on airplanes, remote travel, or deep underground without ever needing an active internet connection.
 • Cross-Platform Compatibility: Runs with identical, pixel-perfect fidelity across Windows, macOS, Linux, Android, and iOS via any standard native web browser.
-• Absolute Privacy: MicroAmp operates entirely client-side. Your local music library is loaded straight into your local browser cache and never touches a third-party serveR.
+• Absolute Privacy: MicroAmp operates entirely client-side. Your local music library is loaded straight into your local browser cache and never touches a third-party server.
 
 🚀 How to Use
 
